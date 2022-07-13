@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "darshan",
+      "email": "darshanraj2013@gmail.com",
+      "pass": "123@",
+      "id": 2
+    },
+    {
+      "name": "raj",
+      "email": "dars@gmail.com",
+      "pass": "123",
+      "id": 3
+    },
+    {
+      "userName": "darshan",
+      "email": "darshanraj2013@gmail.com",
+      "pass": "123@",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}

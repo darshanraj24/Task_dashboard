@@ -1,0 +1,30 @@
+{
+  "tasks": [
+    {
+      "userName": "jygf",
+      "taskName": "abc",
+      "taskDetails": "kjgg",
+      "startDate": "2022-07-05",
+      "endDate": "2022-07-09",
+      "id": 1
+    },
+    {
+      "userName": "darshan",
+      "taskName": "fuyf",
+      "taskDetails": "",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-10",
+      "status": "ongoing",
+      "id": 2
+    },
+    {
+      "userName": "darshan",
+      "taskName": "fuyf",
+      "taskDetails": "",
+      "startDate": "2022-07-09",
+      "endDate": "2022-07-10",
+      "status": "pending",
+      "id": 3
+    }
+  ]
+}

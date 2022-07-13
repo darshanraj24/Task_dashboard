@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  background-color: rgb(114, 36, 187);
+  width: 100vw;
+  height: 100vh;
+  background:linear-gradient(160deg , #241B2A ,#C292DE );
+  
+}
+
+.createlogin{
+  max-width: 350px;
+  margin: auto;
+  background-color: rgb(218, 240, 240);
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.createlogin form{
+display: grid;
+row-gap: 10px;
+padding: 30px;
+}
+.createlogin form label{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(85, 19, 68);
+}
+.createlogin form input{
+  height: 35px;
+  border-radius: 10px;
+ border: 1px solid rgb(231, 202, 202);
+  
+
+}
+.createlogin form input::placeholder{
+padding-left: 10px;
+font-size: 15px;
+}
+
+.createlogin fieldset{
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+ 
+}
+.headding h1{
+  position: relative;
+  text-align: center;
+ color: white;
+}
+
+.btn{
+  background-color: black;
+  color: white;
+}
+
+.landing{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+#btn1{
+  border-radius: 10px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  width: 200px;
+}
+.landing h3{
+  color: white;
+  
+}
+
+.listforms h1{
+  text-align: center;
+  color: white;
+}
+.listforms form{
+  display: grid;
+  grid-template-columns: 100px 300px;
+  row-gap: 10px;
+  padding: 30px;
+  align-items: center;
+  max-width: 600px;
+  margin: auto;
+height: 300px;
+
+}
+.listforms form label{
+  color: white;
+  
+}
+.listforms form input{
+ height: 30px;
+ border-radius: 5px;
+ border: 1px solid rgb(228, 189, 189);
+
+}
+
+#move{
+ color: rgb(235, 235, 243);
+ position: absolute;
+  top: 48%;
+  left: 46%;
+text-decoration: none;
+}
+#move1{
+  color: rgb(235, 235, 243);
+  position: absolute;
+   top: 68%;
+   left: 46%;
+ text-decoration: none;
+}
+.task-list table {
+  color:white ;
+  border: 2px solid red;
+}
+.task-list table{
+  max-width: 900px;
+  margin: auto;
+ margin-top: 50px;
+}
+.task-list h1{
+  max-width: 300px;
+  margin: auto;
+}
+
+.btntsk{
+  position: relative;
+  left: 590px;
+}
